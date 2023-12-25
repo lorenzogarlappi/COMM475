@@ -32,3 +32,11 @@ A dictionary (or dict) associates keys with values.
 It will feel similar to a dictionary for words, where the keys are words and the values are the associated definitions.
 
 The most common way to create a dict is to use curly braces — { and }
+
+A DataFrame is how pandas stores one or more columns of data.
+
+We can think a DataFrames a multiple Series stacked side by side as columns.
+
+This is similar to a sheet in an Excel workbook or a table in a SQL database.
+
+In addition to row labels (an index), DataFrames also have column labels.
